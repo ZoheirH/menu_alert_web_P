@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mwa</string>
+    <string name="web">web</string>
+    <string name="alert">alert</string>
+    <string name="web_view">Web View</string>
+    <string name="alert_dialog">Alert Dialog</string>
+</resources>
